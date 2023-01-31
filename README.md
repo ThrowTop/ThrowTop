@@ -1,3 +1,2 @@
--  Portal 2 Gamer and speedrunner.
 -  C++ enjoyer.
 -  Throw#9999
